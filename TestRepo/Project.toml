@@ -1,0 +1,10 @@
+name = "TestRepo"
+uuid = "efdf5d72-9e94-421b-977a-a2fc093e9f64"
+authors = ["will <will@atom-computing.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+
+[compat]
+DataFrames = "1.7.0"
